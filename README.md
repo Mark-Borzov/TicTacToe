@@ -14,8 +14,18 @@
 
 ## Установка и Запуск
 
+### Для Linux
+
 - Клонировать репозиторий: `git clone git@github.com:Mark-Borzov/TicTacToe.git`
 - Перейти в директорию проекта: `cd TicTacToe`
 - Осуществить сборку проекта при помощи команды: `./gradlew build`
 - Запустить приложение при помощи команды: `./gradlew bootRun`
+- Открыть браузер и перейти по ссылке: `http://localhost:8080`
+
+### Для Windows
+
+- Клонировать репозиторий: `git clone git@github.com:Mark-Borzov/TicTacToe.git`
+- Перейти в директорию проекта: `cd TicTacToe`
+- Осуществить сборку проекта при помощи команды: `.\gradlew build`
+- Запустить приложение при помощи команды: `.\gradlew bootRun`
 - Открыть браузер и перейти по ссылке: `http://localhost:8080`
